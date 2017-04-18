@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me dacsanbanme.net
+//website http://dacsanbanme.net
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/zSXjRZ' target='_blank'><img src='https://lh3.googleusercontent.com/-jRYMmWStCts/V_ywd8yptPI/AAAAAAAAAPg/BPATNr2kfeMT7tFV2xGYIKLb6QuFWryuwCJoC/w530-h240-p-rw/ruou-can-tay-nguyen.jpg'/><br/>Dương Gia Phát</a>. Sửa chữa lắp đặt điện nước Tây Nguyên. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/9dUjJJ' target='_blank'><img src='https://lh3.googleusercontent.com/-yku7d2A6HvM/WPTtCJyvy-I/AAAAAAAAAIA/zmULJ2n0aRo3jYU7BWzCMTonXX7J42qpgCJoC/w530-h184-p-rw/xe-ben-hyundai-hd270-15t.jpg'/><br/>Mr.Huy</a>|HYUNDAI VIỆT NAM<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
