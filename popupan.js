@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://goo.gl/EDsdU5';
+	var url_popup = 'http://www.hyundaithuongmai.com/';
 
       //<![CDATA[
-	  // var url_ppp = 'https://goo.gl/EDsdU5';
+	  // var url_ppp = 'http://www.hyundaithuongmai.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
