@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/9dUjJJ' target='_blank'><img src='https://lh3.googleusercontent.com/-Drl4-uFu7Us/WPTpcknGvNI/AAAAAAAAAGA/-7Kp6_uV9NgAnRhhDfUPz01t6uo7xjP7ACJoC/w530-h352-p-rw/XE-BEN-HD270.jpg'/><br/>Mr.Huy</a>|HYUNDAI VIỆT NAM<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://www.hyundaithuongmai.com/' target='_blank'><img src='https://lh3.googleusercontent.com/-Drl4-uFu7Us/WPTpcknGvNI/AAAAAAAAAGA/-7Kp6_uV9NgAnRhhDfUPz01t6uo7xjP7ACJoC/w530-h352-p-rw/XE-BEN-HD270.jpg'/><br/>Mr.Huy</a>|HYUNDAI VIỆT NAM<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
